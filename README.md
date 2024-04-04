@@ -1,6 +1,6 @@
-# mock-geniusb5b77544-596d-46af-b8dc-35ab7eb14a23
+# mock-geniusb5b77544-596d-46af-b8dc-35ab7eb14a23ababaaabab
 
-mock
+REPLACE_WITH_PROJECT_DESCRIPTION
 
 ## Collaborate with GPT Engineer
 
@@ -12,17 +12,15 @@ If you clone this repo and push changes, you will have them reflected in the GPT
 
 ## Tech stack
 
-This project is built with React and Chakra UI.
+This project is built with REPLACE_WITH_TECH_STACK_SUMMARY.
 
-- Vite
-- React
-- Chakra UI
+REPLACE_WITH_TECH_STACK_POINTS
 
 ## Setup
 
 ```sh
 git clone https://github.com/GPT-Engineer-App-Dev/mock-geniusb5b77544-596d-46af-b8dc-35ab7eb14a23.git
-cd mock-geniusb5b77544-596d-46af-b8dc-35ab7eb14a23
+cd mock-geniusb5b77544-596d-46af-b8dc-35ab7eb14a23ababaaabab
 npm i
 ```
 
